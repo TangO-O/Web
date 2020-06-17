@@ -1,0 +1,52 @@
+/*产品特色*/
+.bgcb{
+    background-color: #333333;
+    width: 622px;
+    height: 558px;
+}
+.w574{
+    width: 574;
+    height: 65;
+    margin-left: 40px;
+    line-height: 23px;
+
+}
+
+/*指南计划*/
+.w326{
+    width: 304px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.w326_1{
+    width: 308px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.bo{
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+    box-shadow: #333333 0px 0px 5px  2px; 
+    height: 355px;
+    width: 319px;
+}
+.fb{
+    margin-left: -65px;
+    margin-top: 80px;
+}
+.fb_1{
+    margin-right: -65px;
+    margin-top: 300px;
+}
+
+
+.moreP{
+    width: 100%;
+    height: 51px;
+    background-color: #333333;
+    margin-top: 30px
+}
+.moreP .pl{
+    line-height: 51px;
+}

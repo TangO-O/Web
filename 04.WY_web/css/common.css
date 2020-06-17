@@ -1,0 +1,166 @@
+/*页面初始化*/
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* 头部导航2*/
+.header1{
+    background-color: #333333;
+    width: 100%;
+    height: 180px;
+}
+.header1 .mt1{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+/* 字体*/
+.fz8{
+    font-size: 8px;
+}
+.fz10{
+    font-size: 10px;
+}
+.fz12{
+    font-size: 12px;
+}
+.fz14{
+    font-size: 14px;
+}
+.fz16{
+    font-size: 16px;
+}
+.fz18{
+    font-size: 18px;
+}
+.fz24{
+    font-size: 24px;
+}
+.fz30{
+    font-size: 30px;
+}
+.fz36{
+    font-size: 36px;
+}
+.fz40{
+    font-size: 40px;
+}
+.ff{
+    font-family:汉仪刚艺体;
+}
+
+
+/*字体颜色*/
+
+
+.f2f4f5{
+    color:#f2f4f5;
+}
+.fff{
+    color:#fff;
+}
+.b2b2b2b2{
+    color:#b2b2b2b2;
+}
+.aac{
+    color:#477aac;
+}
+.b2b{
+    color:#902b2b;
+}
+.b18{
+    color:#5a2c2c;
+}
+.a33{
+    color:#333;
+}
+
+
+
+/*浮动*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.ft{
+    float: inline-start;
+}
+.cl{
+    clear: both;
+}
+
+
+
+
+/*内容居中*/
+.content{
+    width: 1014px;
+    margin: 0 auto;
+}
+.text_center{
+    text-align: center;
+}
+
+/*行高*/
+
+.lh20{
+    line-height: 20px;
+}
+.lh25{
+    line-height: 25px;
+}
+.lh40{
+    line-height: 40px;
+}
+.ml15{
+    margin-left: 15px;
+}
+.ml20{
+    margin-left: 10px;
+}
+.ml25{
+    margin-left: 25px;
+}
+.ml30{
+    margin-left: 30px;
+}
+.ml40{
+    margin-left: 40px;
+}
+.mt10{
+    margin-top: 10px;
+}
+.mt30{
+    margin-top: 30px;
+}
+.mb30{
+    margin-bottom: 30px;
+}
+
+.mt40{
+    margin-top: 100px;
+}
+.mt50{
+    margin-top: 200px;
+}
+.mt60{
+    margin-top:210px;
+}
+
+
+
+

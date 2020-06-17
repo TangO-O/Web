@@ -1,0 +1,45 @@
+/*头部样式*/
+.header{
+    height: 35px;
+    width:100%;
+    background-color: #333333;
+}
+
+.header .mainnav{
+    margin-right: 45px;
+}
+.header .form{
+    margin-top: 10px;
+}
+.header .mainnav li{
+    float: left;
+    color: #ffffff;
+    margin-left: 88px;
+}
+.header .logo{
+    height: 28px;
+    width: 26px;
+    margin-top: 3px;
+}
+
+
+/*表单*/
+.header .form .input{
+    float: left;
+}
+.header .form .input1{
+    width: 100px;
+    height: 20px;
+    background-color: #eeeeee;
+    border: none;
+    border-radius: 8px;
+}
+.header .form .search{
+    width: 30px;
+    height: 20px;
+    background-color: #333333;
+    border: none;
+    border-radius: 0px;
+    color: #ffffff;
+    margin-left: 5px;
+}

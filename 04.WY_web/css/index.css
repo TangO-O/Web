@@ -1,0 +1,155 @@
+
+
+/*头部样式*/
+.header{
+    height: 35px;
+    width:100%;
+    background-color: #333333;
+}
+
+.header .mainnav{
+    margin-right: 45px;
+}
+.header .form{
+    margin-top: 10px;
+}
+.header .mainnav li{
+    float: left;
+    color: #ffffff;
+    margin-left: 88px;
+}
+.header .logo{
+    height: 28px;
+    width: 26px;
+    margin-top: 3px;
+}
+
+
+/*表单*/
+.header .form .input{
+    float: left;
+}
+.header .form .input1{
+    width: 100px;
+    height: 20px;
+    background-color: #eeeeee;
+    border: none;
+    border-radius: 8px;
+}
+.header .form .search{
+    width: 30px;
+    height: 20px;
+    background-color: #333333;
+    border: none;
+    border-radius: 0px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+
+
+/*轮播图*/
+.banner{
+    width: 100%;
+    height: 478px;
+}
+
+/*资讯快览*/
+.news{
+    margin-top: 5px;
+    padding-bottom: 3px;
+}
+
+.w200{
+    width: 200px;
+}
+
+.news_con ul li{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: left;
+} 
+
+/*更多信息*/
+.more_news{
+    width: 100%;
+    height: 30px;
+    background-color: #333333;
+    padding: 30px 0;
+}
+.m{
+    padding-top: ；
+}
+
+
+/*新闻信息*/
+.message{
+    margin-top: 0px;
+
+}
+.message .img1{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.message .img2{
+    margin-left: 100px;
+}
+.mes_con ul li{
+    float: left;
+    margin-right: 30px;
+}
+.message .back{
+    background-color: #333333;
+    width: 521;
+    height: 130px;
+    margin-left: 450px;
+}
+.message .p1{
+    margin-left: 120px;
+}
+.message .p2{
+    margin-left: 25px;
+}
+
+.w400{
+    width: 400px;
+}
+.message .views{
+    
+    width: 100%;
+    height: 51px;
+    background-color: #333333;
+    margin-top: 30px
+}
+.message .views .p3{
+    line-height: 51px;
+}
+
+
+
+
+
+/*公司理念*/
+.inintroductions{
+    margin-top: 50px;
+}
+.mt{
+    margin-top: 120px;
+    margin-bottom: 10px;
+}
+
+
+/*底部*/
+.footter{
+    width: 100%;
+    height: 149px;
+    background-color: #333333;
+    margin-top: 120px;
+    
+}
+.pt30{
+    padding-top: 30px;
+}
+.pt60{
+    padding-top: 16px;
+}

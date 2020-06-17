@@ -1,0 +1,83 @@
+/*发展历程*/
+.bgcb{
+    background-color: #333333;
+    width: 622px;
+    height: 558px;
+}
+.w574{
+    width: 574;
+    height: 65;
+    margin-left: 40px;
+    line-height: 30px;
+
+}
+.w235{
+    width: 235px;
+}
+
+.develop{
+    margin-top: 35px;
+
+}
+.xdevelop{
+    margin-top: 40px;
+}
+.pp{
+    padding-top: 50px;
+}
+.pp1{
+    padding-top: 60px;
+}
+.pp2{
+    padding-top: 70px;
+}
+
+
+
+
+/*模式 规划*/
+
+.w326{
+    width: 326px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.w326_1{
+    width: 326px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.bo{
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+    box-shadow: #333333 0px 0px 5px  2px; 
+    height: 319px;
+    width: 356px;
+}
+.fb{
+    margin-left: -15px;
+}
+.fb_1{
+    margin-right: -15px;
+}
+
+
+/*团队*/
+.w210{
+    width: 210px;
+    padding-left: 20px;
+}
+.bo_1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #333333;
+    width: 236px;
+    height: 179px;
+    background-color: #ffffff;
+    
+}
+.bo_11{
+    padding-top: 30px;
+    padding-left: 30px;
+}

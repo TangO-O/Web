@@ -1,0 +1,14 @@
+{
+	"data":[
+		{
+			"img":"img/lunbo1.jpg"
+		},
+		{
+			"img":"img/lunbo2.jpg"
+		},{
+			"img":"img/lunbo3.jpg"
+		}
+	],
+	"code":1,
+	"mag":"请求成功！"
+}
